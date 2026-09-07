@@ -2,6 +2,10 @@
 
 A dynamic, prompt-driven project for campaign content generation.
 
+for any suggestions or complains send me a mail
+
+crooklanre@gmail.com
+
 ## What it does
 - Reads strategy from prompt/how/plan/gather markdown or direct prompt text.
 - Builds a source-aware dynamic plan.
