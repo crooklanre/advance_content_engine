@@ -8,7 +8,7 @@ A dynamic, prompt-driven project for campaign content generation.
 - Executes through an orchestrated task graph.
 - Applies reflection-based iterative tuning with weighted quality metrics.
 - Renders scripts/captions/images/videos in parallel.
-- Supports campaign-aware planning for community/pillar content (not only Apify tutorials).
+- Supports campaign-aware planning for community/pillar content .
 - Generates richer per-topic packs: `storyboard.txt`, `image_prompt.txt`, `video_prompt.txt`, and `topic.json`.
 - Exports `content_calendar.json` and `image_references.json` for campaign operations.
 - Optional automatic narration pipeline: TTS (`narration.wav`) + ffmpeg stitched `video_narrated.mp4`.
